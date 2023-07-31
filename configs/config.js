@@ -1,4 +1,4 @@
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcrypt')
 const oauth = {
     GOOGLE_CLIENT_KEY: "",
     GOOGLE_CLIENT_ID: "",
